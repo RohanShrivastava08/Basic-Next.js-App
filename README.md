@@ -1,12 +1,14 @@
 # 💼 ⚡ Next.js App with Vercel, Tailwind CSS and TypeScript 
 
+Welcome to the Next.js App project, a modern web application using Next.js as the framework, Tailwind CSS for styling, and TypeScript for type safety.
+
 ![Screenshot (452)](https://github.com/user-attachments/assets/0ccd6234-33a8-42d5-ba54-7773ed97e008)
 
 ![Screenshot (454)](https://github.com/user-attachments/assets/226e977e-2a41-4917-aa74-800f0f282ee3)
 
 ![Screenshot (455)](https://github.com/user-attachments/assets/fc532d97-fd9d-4b05-ae7f-dc602801c6a5)
 
-Welcome to the Next.js App project, a modern web application using Next.js as the framework, Tailwind CSS for styling, and TypeScript for type safety.
+
 
 This project is fully deployed on Vercel for seamless scalability and performance.
 
